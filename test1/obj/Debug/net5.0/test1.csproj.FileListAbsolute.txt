@@ -1,0 +1,16 @@
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.exe
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.deps.json
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.dll
+F:\work with Dima\test1\test1\bin\Debug\net5.0\ref\test1.dll
+F:\work with Dima\test1\test1\bin\Debug\net5.0\test1.pdb
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.csproj.AssemblyReference.cache
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.dll
+F:\work with Dima\test1\test1\obj\Debug\net5.0\ref\test1.dll
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.pdb
+F:\work with Dima\test1\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache
